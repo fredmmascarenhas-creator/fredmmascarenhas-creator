@@ -1,0 +1,9 @@
+{
+  "name": "OncoInbox AI",
+  "description": "Intelligent dashboard to organize clinical WhatsApp messages for oncologists, transforming chaos into structured care.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
